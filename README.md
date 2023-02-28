@@ -2,4 +2,4 @@
 java project
 
 
-https://github.com/jayeshshsh/PingPong-Game.git
+https://github.com/jayeshshsh/PingPong-Game.
